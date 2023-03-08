@@ -8,8 +8,9 @@ TAKE NOTE: My wording on the learnings section are for my own satisfaction and u
 Project #1 - ToDo List
 
 Learnings:
+
     Keys vs Ids
-    keys are for react components (
+    keys are for react components 
     ids are for html elements 
 
     Props in a syntactical pattern sense, function and functional components MUST MATCH PARAMETERS
@@ -32,6 +33,7 @@ Learnings:
   
   
 Mistakes: 
+
     (1) onClick={func(key)}
     Solution: onClick={() => func(key)}
     Reason: The func gets called when the button is rendered
@@ -49,6 +51,7 @@ Mistakes:
 
 =======================================================================================================================================================================
 Ideas: 
+
   (1) A button that can switch between two designs
 
   Design 1
