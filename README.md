@@ -46,7 +46,7 @@ Mistakes:
     (3) setNewtodo({...todo, id: uuidv4()}) 
     Solution:   const newTodo = { ...todo, id: uuidv4() }; 
                 setNewtodo(newTodo); 
-    Reason: this does not create a new object variable and only copies the prev object properties, reason for error: same keys for different children
+    Reason: only copies the prev object properties (error: same keys for different children)
     I need to declare new object variable when adding objects to a list. 
 
 =======================================================================================================================================================================
