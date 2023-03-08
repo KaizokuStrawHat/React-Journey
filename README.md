@@ -51,17 +51,18 @@ Mistakes:
     Reason: only copies the prev object properties (error: same keys for different children)
     I need to declare new object variable when adding objects to a list. 
 
+
 Ideas: 
 
   (1) A button that can switch between two designs
 
   Design 1
-    making add button on top
-    making textbox stretch to same length as hr
-    making delete button on the end of hr
+  making add button on top
+  making textbox stretch to same length as hr
+  making delete button on the end of hr
 
   Design 2  
-    making textbox and add button on same line
-    delete button disappears, instead delete function calls on clicking text
+  making textbox and add button on same line
+  delete button disappears, instead delete function calls on clicking text
 
   (2) Integrate a checkbox / strikethrough label, and a clear button -- replacing the need for delete button
