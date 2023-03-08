@@ -1,6 +1,8 @@
 # React-Journey
 Documenting my react.js journey of mistakes and learnings
 
+LEVERAGING THE USE OF CHAT.GPT for explaining and confirming my understandings
+
 
 TAKE NOTE: My wording on the learnings section are for my own satisfaction and understanding only.
 ==================================================================================================
