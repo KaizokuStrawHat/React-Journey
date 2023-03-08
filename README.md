@@ -1,7 +1,7 @@
 # React-Journey
 Documenting my react.js journey of mistakes and learnings
 
-==================================================================================================
+
 TAKE NOTE: My wording on the learnings section are for my own satisfaction and understanding only.
 ==================================================================================================
 
